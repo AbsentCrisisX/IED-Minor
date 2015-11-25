@@ -89,6 +89,7 @@ include('./php/pages.php');
 	<!-- Off canvas JS -->
     <script src="js/offCanvas/classie.js"></script>
 	<script src="js/offCanvas/main.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
 
 </body>
 
